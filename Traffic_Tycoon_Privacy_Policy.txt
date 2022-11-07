@@ -1,4 +1,4 @@
-Idle car industry tycoon Privacy Policy
+Idle Traffic Tycoon Privacy Policy
 
 introduction
 
@@ -25,7 +25,7 @@ Fourth, our information security protection
 
 1. Information we may collect
 
-Idle car industry tycoon collects information in order to provide better services to all users. The main sources of information collected by Traffic Tycoon Empire are: information you provide to Traffic Tycoon Empire, information obtained by Traffic Tycoon Empire during your use of Traffic Tycoon Empire products and services, and your information shared by third parties. The types of information collected by Traffic Tycoon Empire mainly include the following:
+Idle Traffic Tycoon collects information in order to provide better services to all users. The main sources of information collected by Traffic Tycoon Empire are: information you provide to Traffic Tycoon Empire, information obtained by Traffic Tycoon Empire during your use of Traffic Tycoon Empire products and services, and your information shared by third parties. The types of information collected by Traffic Tycoon Empire mainly include the following:
 
 1. Personal information
 
@@ -184,7 +184,7 @@ Traffic Tycoon Empire will only publicly disclose your personal information unde
 
 Fourth, our information security protection
 
-1. Idle car industry tycoon will only retain your personal information for the period necessary for the purpose described in this policy and within the time limit required by laws and regulations.
+1. Idle Traffic Tycoon will only retain your personal information for the period necessary for the purpose described in this policy and within the time limit required by laws and regulations.
 
 2. Data security technical measures: Traffic Tycoon Empire will adopt security protection measures that meet industry standards, including establishing reasonable system specifications and security technologies to prevent your personal information from unauthorized access, use, modification, and data damage Or lost; Traffic Tycoon Empire will use security technology and procedures to monitor and record network operation status and network security incidents, and take necessary technical measures to ensure network security to prevent information loss, improper use, unauthorized reading or disclosure. For example, in some services, Traffic Tycoon Empire will use encryption technology to protect the personal information you provide. However, please understand that due to technical limitations and various malicious methods that may exist, in the Internet industry, even if you do your best to strengthen security measures, it is impossible to always guarantee 100% security of information. You need to understand that the system and communication network you use to access Traffic Tycoon Empire's products and services may have problems due to factors outside the controllable range of Traffic Tycoon Empire.
 
@@ -250,6 +250,3 @@ In addition to the exemptions listed in this policy, Traffic Tycoon Empire does 
 Traffic Tycoon Empire may revise the terms of this policy in due course, and such revisions form part of this policy. The revised policy Traffic Tycoon Empire will be released in a timely manner. If you continue to use Traffic Tycoon Empire products and services, you agree to be bound by the revised privacy policy.
 
 This policy was issued on July 6, 2021, and became effective on July 6, 2021.
-
-
-
